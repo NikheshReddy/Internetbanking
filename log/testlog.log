@@ -1,0 +1,835 @@
+2021-01-16 15:26:35,337 - ebanking -INFO - URL is Opened
+2021-01-16 15:26:35,491 - ebanking -INFO - Entered Username
+2021-01-16 15:26:35,559 - ebanking -INFO - Entered Password
+2021-01-16 15:26:37,869 - ebanking -INFO - Login test Passed
+2021-01-16 15:55:42,951 - ebanking -INFO - URL is Opened
+2021-01-16 15:55:43,223 - ebanking -INFO - Entered Username
+2021-01-16 15:55:43,300 - ebanking -INFO - Entered Password
+2021-01-16 15:55:45,749 - ebanking -INFO - Login test Passed
+2021-01-16 15:56:24,997 - ebanking -INFO - URL is Opened
+2021-01-16 15:56:25,215 - ebanking -INFO - Entered Username
+2021-01-16 15:56:25,280 - ebanking -INFO - Entered Password
+2021-01-16 16:22:48,549 - ebanking -INFO - URL is Opened
+2021-01-16 16:22:48,719 - ebanking -INFO - Entered Username
+2021-01-16 16:22:48,989 - ebanking -INFO - Entered Password
+2021-01-16 16:22:52,383 - ebanking -INFO - Login test Passed
+2021-01-16 16:23:34,525 - ebanking -INFO - URL is Opened
+2021-01-16 16:23:34,879 - ebanking -INFO - Entered Username
+2021-01-16 16:23:35,008 - ebanking -INFO - Entered Password
+2021-01-16 16:23:38,645 - ebanking -INFO - Login test Passed
+2021-01-16 16:26:39,222 - ebanking -INFO - URL is Opened
+2021-01-16 16:26:39,436 - ebanking -INFO - Entered Username
+2021-01-16 16:26:39,504 - ebanking -INFO - Entered Password
+2021-01-16 16:26:41,132 - ebanking -INFO - Login test Passed
+2021-01-16 16:46:25,694 - ebanking -INFO - URL is Opened
+2021-01-16 16:46:26,014 - ebanking -INFO - Entered Username
+2021-01-16 16:46:26,083 - ebanking -INFO - Entered Password
+2021-01-16 16:46:28,936 - ebanking -INFO - Login test Passed
+2021-01-16 16:52:52,989 - ebanking -INFO - URL is Opened
+2021-01-16 16:52:53,400 - ebanking -INFO - Entered Username
+2021-01-16 16:52:53,468 - ebanking -INFO - Entered Password
+2021-01-16 16:58:41,953 - ebanking -INFO - URL is Opened
+2021-01-16 16:58:42,154 - ebanking -INFO - Entered Username
+2021-01-16 16:58:42,225 - ebanking -INFO - Entered Password
+2021-01-16 17:02:13,768 - ebanking -INFO - URL is Opened
+2021-01-16 17:02:13,906 - ebanking -INFO - Entered Username
+2021-01-16 17:02:13,971 - ebanking -INFO - Entered Password
+2021-01-16 17:04:57,373 - ebanking -INFO - URL is Opened
+2021-01-16 17:04:57,532 - ebanking -INFO - Entered Username
+2021-01-16 17:04:57,600 - ebanking -INFO - Entered Password
+2021-01-18 15:25:43,600 - ebanking -INFO - URL is Opened
+2021-01-18 15:25:44,786 - ebanking -INFO - UserName is Provided
+2021-01-18 15:25:44,857 - ebanking -INFO - Password is Provider
+2021-01-18 15:31:54,495 - ebanking -INFO - URL is Opened
+2021-01-18 15:31:55,563 - ebanking -INFO - UserName is Provided
+2021-01-18 15:31:55,630 - ebanking -INFO - Password is Provider
+2021-01-18 15:34:49,940 - ebanking -INFO - URL is Opened
+2021-01-18 15:34:50,833 - ebanking -INFO - UserName is Provided
+2021-01-18 15:34:50,894 - ebanking -INFO - Password is Provider
+2021-01-18 15:37:20,249 - ebanking -INFO - URL is Opened
+2021-01-18 15:37:21,005 - ebanking -INFO - UserName is Provided
+2021-01-18 15:37:21,061 - ebanking -INFO - Password is Provider
+2021-01-18 15:37:23,205 - ebanking -INFO - Login into HomePage
+2021-01-18 15:42:25,889 - ebanking -INFO - URL is Opened
+2021-01-18 15:42:26,759 - ebanking -INFO - UserName is Provided
+2021-01-18 15:42:26,823 - ebanking -INFO - Password is Provider
+2021-01-18 15:42:28,666 - ebanking -INFO - Login into HomePage
+2021-01-18 15:43:42,857 - ebanking -INFO - URL is Opened
+2021-01-18 15:43:43,642 - ebanking -INFO - UserName is Provided
+2021-01-18 15:43:43,705 - ebanking -INFO - Password is Provider
+2021-01-18 15:43:47,046 - ebanking -INFO - Login into HomePage
+2021-01-18 15:43:50,212 - ebanking -WARN - Login Failed
+2021-01-18 15:43:50,316 - ebanking -INFO - UserName is Provided
+2021-01-18 15:43:50,407 - ebanking -INFO - Password is Provider
+2021-01-18 15:43:51,005 - ebanking -INFO - Login into HomePage
+2021-01-18 15:43:53,349 - ebanking -INFO - UserName is Provided
+2021-01-18 15:43:53,413 - ebanking -INFO - Password is Provider
+2021-01-18 15:43:55,012 - ebanking -INFO - Login into HomePage
+2021-01-18 15:43:57,851 - ebanking -INFO - UserName is Provided
+2021-01-18 15:43:57,928 - ebanking -INFO - Password is Provider
+2021-01-18 15:43:58,528 - ebanking -INFO - Login into HomePage
+2021-01-18 15:44:00,370 - ebanking -INFO - UserName is Provided
+2021-01-18 15:44:00,433 - ebanking -INFO - Password is Provider
+2021-01-18 15:44:00,796 - ebanking -INFO - Login into HomePage
+2021-01-18 15:44:57,091 - ebanking -INFO - URL is Opened
+2021-01-18 15:44:58,228 - ebanking -INFO - UserName is Provided
+2021-01-18 15:44:58,300 - ebanking -INFO - Password is Provider
+2021-01-18 15:45:00,466 - ebanking -INFO - Login into HomePage
+2021-01-18 15:48:08,546 - ebanking -INFO - URL is Opened
+2021-01-18 15:48:09,444 - ebanking -INFO - UserName is Provided
+2021-01-18 15:48:09,516 - ebanking -INFO - Password is Provider
+2021-01-18 15:48:11,418 - ebanking -INFO - Login into HomePage
+2021-01-18 15:49:24,714 - ebanking -INFO - URL is Opened
+2021-01-18 15:49:25,473 - ebanking -INFO - UserName is Provided
+2021-01-18 15:49:25,542 - ebanking -INFO - Password is Provider
+2021-01-18 15:49:33,041 - ebanking -INFO - Login into HomePage
+2021-01-18 15:56:53,469 - ebanking -INFO - URL is Opened
+2021-01-18 15:56:54,269 - ebanking -INFO - UserName is Provided
+2021-01-18 15:56:54,331 - ebanking -INFO - Password is Provider
+2021-01-18 16:04:29,220 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:04:34,159 - ebanking -INFO - URL is Opened
+2021-01-18 16:04:34,984 - ebanking -INFO - UserName is Provided
+2021-01-18 16:04:35,044 - ebanking -INFO - Password is Provider
+2021-01-18 16:04:39,493 - ebanking -INFO - Login Passed
+2021-01-18 16:07:00,738 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:07:06,158 - ebanking -INFO - URL is Opened
+2021-01-18 16:07:06,895 - ebanking -INFO - UserName is Provided
+2021-01-18 16:07:06,960 - ebanking -INFO - Password is Provider
+2021-01-18 16:07:11,720 - ebanking -INFO - Login Passed
+2021-01-18 16:09:04,130 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:09:09,092 - ebanking -INFO - URL is Opened
+2021-01-18 16:09:09,930 - ebanking -INFO - UserName is Provided
+2021-01-18 16:09:09,988 - ebanking -INFO - Password is Provider
+2021-01-18 16:09:15,248 - ebanking -INFO - Login Passed
+2021-01-18 16:09:27,764 - ebanking -INFO - UserName is Provided
+2021-01-18 16:09:27,859 - ebanking -INFO - Password is Provider
+2021-01-18 16:09:33,506 - ebanking -INFO - UserName is Provided
+2021-01-18 16:09:33,597 - ebanking -INFO - Password is Provider
+2021-01-18 16:11:31,922 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:11:36,818 - ebanking -INFO - URL is Opened
+2021-01-18 16:11:37,615 - ebanking -INFO - UserName is Provided
+2021-01-18 16:11:37,674 - ebanking -INFO - Password is Provider
+2021-01-18 16:11:43,939 - ebanking -INFO - Login Passed
+2021-01-18 16:11:43,987 - ebanking -INFO - clicked logout
+2021-01-18 16:13:15,512 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:13:21,045 - ebanking -INFO - URL is Opened
+2021-01-18 16:13:21,865 - ebanking -INFO - UserName is Provided
+2021-01-18 16:13:21,927 - ebanking -INFO - Password is Provider
+2021-01-18 16:13:27,638 - ebanking -INFO - Login Passed
+2021-01-18 16:13:27,692 - ebanking -INFO - clicked logout
+2021-01-18 16:14:21,117 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:14:27,573 - ebanking -INFO - URL is Opened
+2021-01-18 16:14:28,396 - ebanking -INFO - UserName is Provided
+2021-01-18 16:14:28,461 - ebanking -INFO - Password is Provider
+2021-01-18 16:14:34,757 - ebanking -INFO - Login Passed
+2021-01-18 16:14:34,806 - ebanking -INFO - clicked logout
+2021-01-18 16:14:39,542 - ebanking -INFO - UserName is Provided
+2021-01-18 16:14:39,641 - ebanking -INFO - Password is Provider
+2021-01-18 16:14:44,647 - ebanking -INFO - UserName is Provided
+2021-01-18 16:14:44,736 - ebanking -INFO - Password is Provider
+2021-01-18 16:17:28,023 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:17:33,799 - ebanking -INFO - URL is Opened
+2021-01-18 16:17:34,563 - ebanking -INFO - UserName is Provided
+2021-01-18 16:17:34,760 - ebanking -INFO - Password is Provider
+2021-01-18 16:17:39,841 - ebanking -INFO - Login Passed
+2021-01-18 16:17:39,895 - ebanking -INFO - clicked logout
+2021-01-18 16:20:06,014 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:20:10,819 - ebanking -INFO - URL is Opened
+2021-01-18 16:20:11,599 - ebanking -INFO - UserName is Provided
+2021-01-18 16:20:11,662 - ebanking -INFO - Password is Provider
+2021-01-18 16:20:17,018 - ebanking -INFO - Login Passed
+2021-01-18 16:20:17,632 - ebanking -INFO - clicked logout
+2021-01-18 16:20:22,152 - ebanking -INFO - UserName is Provided
+2021-01-18 16:20:22,241 - ebanking -INFO - Password is Provider
+2021-01-18 16:20:27,156 - ebanking -INFO - UserName is Provided
+2021-01-18 16:20:27,247 - ebanking -INFO - Password is Provider
+2021-01-18 16:23:08,726 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:23:14,805 - ebanking -INFO - URL is Opened
+2021-01-18 16:23:15,688 - ebanking -INFO - UserName is Provided
+2021-01-18 16:23:15,854 - ebanking -INFO - Password is Provider
+2021-01-18 16:23:21,672 - ebanking -INFO - Login Passed
+2021-01-18 16:23:21,725 - ebanking -INFO - clicked logout
+2021-01-18 16:23:27,504 - ebanking -INFO - UserName is Provided
+2021-01-18 16:23:27,591 - ebanking -INFO - Password is Provider
+2021-01-18 16:23:32,949 - ebanking -INFO - UserName is Provided
+2021-01-18 16:23:33,041 - ebanking -INFO - Password is Provider
+2021-01-18 16:24:47,914 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:24:53,162 - ebanking -INFO - URL is Opened
+2021-01-18 16:24:54,034 - ebanking -INFO - UserName is Provided
+2021-01-18 16:24:54,110 - ebanking -INFO - Password is Provider
+2021-01-18 16:24:59,297 - ebanking -INFO - Login Passed
+2021-01-18 16:24:59,458 - ebanking -INFO - clicked logout
+2021-01-18 16:26:26,078 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:26:30,695 - ebanking -INFO - URL is Opened
+2021-01-18 16:26:31,607 - ebanking -INFO - UserName is Provided
+2021-01-18 16:26:31,674 - ebanking -INFO - Password is Provider
+2021-01-18 16:26:36,540 - ebanking -INFO - Login Passed
+2021-01-18 16:26:36,594 - ebanking -INFO - clicked logout
+2021-01-18 16:26:43,136 - ebanking -INFO - UserName is Provided
+2021-01-18 16:26:43,232 - ebanking -INFO - Password is Provider
+2021-01-18 16:27:03,495 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:27:08,936 - ebanking -INFO - URL is Opened
+2021-01-18 16:27:09,948 - ebanking -INFO - UserName is Provided
+2021-01-18 16:27:10,021 - ebanking -INFO - Password is Provider
+2021-01-18 16:27:14,999 - ebanking -INFO - Login Passed
+2021-01-18 16:27:15,058 - ebanking -INFO - clicked logout
+2021-01-18 16:27:31,286 - ebanking -INFO - UserName is Provided
+2021-01-18 16:27:31,379 - ebanking -INFO - Password is Provider
+2021-01-18 16:30:06,610 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:30:09,706 - ebanking -INFO - URL is Opened
+2021-01-18 16:30:10,581 - ebanking -INFO - UserName is Provided
+2021-01-18 16:30:10,641 - ebanking -INFO - Password is Provider
+2021-01-18 16:30:15,489 - ebanking -INFO - Login Passed
+2021-01-18 16:30:16,358 - ebanking -INFO - clicked logout
+2021-01-18 16:30:21,401 - ebanking -INFO - UserName is Provided
+2021-01-18 16:30:21,478 - ebanking -INFO - Password is Provider
+2021-01-18 16:30:26,761 - ebanking -INFO - UserName is Provided
+2021-01-18 16:30:26,837 - ebanking -INFO - Password is Provider
+2021-01-18 16:34:37,208 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:34:42,179 - ebanking -INFO - URL is Opened
+2021-01-18 16:34:42,940 - ebanking -INFO - UserName is Provided
+2021-01-18 16:34:43,023 - ebanking -INFO - Password is Provider
+2021-01-18 16:34:48,163 - ebanking -INFO - Login Passed
+2021-01-18 16:34:48,214 - ebanking -INFO - clicked logout
+2021-01-18 16:36:20,956 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:36:25,138 - ebanking -INFO - URL is Opened
+2021-01-18 16:36:25,992 - ebanking -INFO - UserName is Provided
+2021-01-18 16:36:26,055 - ebanking -INFO - Password is Provider
+2021-01-18 16:36:30,664 - ebanking -INFO - Login Passed
+2021-01-18 16:36:40,791 - ebanking -INFO - UserName is Provided
+2021-01-18 16:36:40,870 - ebanking -INFO - Password is Provider
+2021-01-18 16:36:46,799 - ebanking -INFO - UserName is Provided
+2021-01-18 16:36:46,875 - ebanking -INFO - Password is Provider
+2021-01-18 16:36:51,915 - ebanking -INFO - Login Passed
+2021-01-18 16:37:30,770 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:37:35,622 - ebanking -INFO - URL is Opened
+2021-01-18 16:37:36,395 - ebanking -INFO - UserName is Provided
+2021-01-18 16:37:36,478 - ebanking -INFO - Password is Provider
+2021-01-18 16:37:42,197 - ebanking -INFO - Login Passed
+2021-01-18 16:37:47,808 - ebanking -INFO - UserName is Provided
+2021-01-18 16:37:47,902 - ebanking -INFO - Password is Provider
+2021-01-18 16:37:52,752 - ebanking -INFO - UserName is Provided
+2021-01-18 16:37:52,857 - ebanking -INFO - Password is Provider
+2021-01-18 16:37:57,438 - ebanking -INFO - Login Passed
+2021-01-18 16:38:03,649 - ebanking -INFO - UserName is Provided
+2021-01-18 16:38:03,740 - ebanking -INFO - Password is Provider
+2021-01-18 16:38:09,014 - ebanking -INFO - UserName is Provided
+2021-01-18 16:38:09,101 - ebanking -INFO - Password is Provider
+2021-01-18 16:38:13,861 - ebanking -INFO - Login Passed
+2021-01-18 16:40:18,691 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:40:23,934 - ebanking -INFO - URL is Opened
+2021-01-18 16:40:24,713 - ebanking -INFO - UserName is Provided
+2021-01-18 16:40:24,806 - ebanking -INFO - Password is Provider
+2021-01-18 16:40:29,681 - ebanking -INFO - Login Passed
+2021-01-18 16:40:34,253 - ebanking -INFO - UserName is Provided
+2021-01-18 16:40:34,332 - ebanking -INFO - Password is Provider
+2021-01-18 16:40:37,704 - ebanking -WARN - Login Failed
+2021-01-18 16:40:39,222 - ebanking -INFO - UserName is Provided
+2021-01-18 16:40:39,313 - ebanking -INFO - Password is Provider
+2021-01-18 16:40:44,232 - ebanking -INFO - Login Passed
+2021-01-18 16:40:49,255 - ebanking -INFO - UserName is Provided
+2021-01-18 16:40:49,322 - ebanking -INFO - Password is Provider
+2021-01-18 16:40:52,938 - ebanking -WARN - Login Failed
+2021-01-18 16:40:54,324 - ebanking -INFO - UserName is Provided
+2021-01-18 16:40:54,418 - ebanking -INFO - Password is Provider
+2021-01-18 16:40:58,854 - ebanking -INFO - Login Passed
+2021-01-18 16:44:25,125 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:44:29,845 - ebanking -INFO - URL is Opened
+2021-01-18 16:44:29,959 - ebanking -INFO - Entered Username
+2021-01-18 16:44:30,027 - ebanking -INFO - Entered Password
+2021-01-18 16:44:37,032 - ebanking -INFO - Login test Passed
+2021-01-18 16:45:22,585 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 16:45:27,415 - ebanking -INFO - URL is Opened
+2021-01-18 16:45:27,537 - ebanking -INFO - Entered Username
+2021-01-18 16:45:27,610 - ebanking -INFO - Entered Password
+2021-01-18 16:45:34,151 - ebanking -INFO - Login test Passed
+2021-01-18 16:45:34,202 - ebanking -INFO - logout Successfully
+2021-01-18 18:19:12,124 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:19:17,926 - ebanking -INFO - URL is Opened
+2021-01-18 18:19:18,107 - ebanking -INFO - Entered Username
+2021-01-18 18:19:18,188 - ebanking -INFO - Entered Password
+2021-01-18 18:19:25,164 - ebanking -INFO - Login test Passed
+2021-01-18 18:19:25,266 - ebanking -INFO - logout Successfully
+2021-01-18 18:19:29,573 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:19:35,173 - ebanking -INFO - URL is Opened
+2021-01-18 18:19:35,343 - ebanking -INFO - UserName is Provided
+2021-01-18 18:19:35,410 - ebanking -INFO - Password is Provided
+2021-01-18 18:19:37,728 - ebanking -INFO - Successfully login
+2021-01-18 18:19:41,854 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:19:45,723 - ebanking -INFO - Validation Started....
+2021-01-18 18:22:32,134 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:22:37,068 - ebanking -INFO - URL is Opened
+2021-01-18 18:22:37,282 - ebanking -INFO - Entered Username
+2021-01-18 18:22:37,350 - ebanking -INFO - Entered Password
+2021-01-18 18:22:44,759 - ebanking -INFO - Login test Passed
+2021-01-18 18:22:44,807 - ebanking -INFO - logout Successfully
+2021-01-18 18:22:49,764 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:22:55,376 - ebanking -INFO - URL is Opened
+2021-01-18 18:22:55,464 - ebanking -INFO - UserName is Provided
+2021-01-18 18:22:55,535 - ebanking -INFO - Password is Provided
+2021-01-18 18:22:57,432 - ebanking -INFO - Successfully login
+2021-01-18 18:23:01,285 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:23:05,175 - ebanking -INFO - Validation Started....
+2021-01-18 18:24:44,695 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:24:49,444 - ebanking -INFO - URL is Opened
+2021-01-18 18:24:49,575 - ebanking -INFO - Entered Username
+2021-01-18 18:24:49,650 - ebanking -INFO - Entered Password
+2021-01-18 18:24:56,687 - ebanking -INFO - Login test Passed
+2021-01-18 18:24:56,888 - ebanking -INFO - logout Successfully
+2021-01-18 18:25:00,834 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:25:05,840 - ebanking -INFO - URL is Opened
+2021-01-18 18:25:05,930 - ebanking -INFO - UserName is Provided
+2021-01-18 18:25:06,001 - ebanking -INFO - Password is Provided
+2021-01-18 18:25:07,895 - ebanking -INFO - Successfully login
+2021-01-18 18:25:11,928 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:25:15,784 - ebanking -INFO - Validation Started....
+2021-01-18 18:26:50,998 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:26:55,920 - ebanking -INFO - URL is Opened
+2021-01-18 18:26:56,032 - ebanking -INFO - Entered Username
+2021-01-18 18:26:56,096 - ebanking -INFO - Entered Password
+2021-01-18 18:27:03,154 - ebanking -INFO - Login test Passed
+2021-01-18 18:27:03,208 - ebanking -INFO - logout Successfully
+2021-01-18 18:27:07,042 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:27:12,045 - ebanking -INFO - URL is Opened
+2021-01-18 18:27:12,131 - ebanking -INFO - UserName is Provided
+2021-01-18 18:27:12,193 - ebanking -INFO - Password is Provided
+2021-01-18 18:27:14,240 - ebanking -INFO - Successfully login
+2021-01-18 18:27:18,417 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:27:22,279 - ebanking -INFO - Validation Started....
+2021-01-18 18:36:40,893 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:36:46,057 - ebanking -INFO - URL is Opened
+2021-01-18 18:36:46,250 - ebanking -INFO - Entered Username
+2021-01-18 18:36:46,317 - ebanking -INFO - Entered Password
+2021-01-18 18:36:53,255 - ebanking -INFO - Login test Passed
+2021-01-18 18:36:53,304 - ebanking -INFO - logout Successfully
+2021-01-18 18:36:57,128 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:37:01,829 - ebanking -INFO - URL is Opened
+2021-01-18 18:37:01,912 - ebanking -INFO - UserName is Provided
+2021-01-18 18:37:01,977 - ebanking -INFO - Password is Provided
+2021-01-18 18:37:04,768 - ebanking -INFO - Successfully login
+2021-01-18 18:37:08,658 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:37:08,741 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:37:08,829 - ebanking -INFO - Selected Gender
+2021-01-18 18:37:08,969 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:37:09,046 - ebanking -INFO - Entered Address
+2021-01-18 18:37:09,114 - ebanking -INFO - Entered City
+2021-01-18 18:37:09,185 - ebanking -INFO - Entered State
+2021-01-18 18:37:09,259 - ebanking -INFO - Entered Pincode
+2021-01-18 18:37:09,329 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:37:09,409 - ebanking -INFO - Entered Email
+2021-01-18 18:37:09,474 - ebanking -INFO - Entered Password
+2021-01-18 18:37:09,526 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:37:12,534 - ebanking -INFO - Validation Started....
+2021-01-18 18:42:04,619 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:42:09,900 - ebanking -INFO - URL is Opened
+2021-01-18 18:42:10,020 - ebanking -INFO - Entered Username
+2021-01-18 18:42:10,102 - ebanking -INFO - Entered Password
+2021-01-18 18:42:35,211 - ebanking -INFO - Login test Passed
+2021-01-18 18:42:35,261 - ebanking -INFO - logout Successfully
+2021-01-18 18:42:39,004 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:42:44,114 - ebanking -INFO - URL is Opened
+2021-01-18 18:42:44,205 - ebanking -INFO - UserName is Provided
+2021-01-18 18:42:44,273 - ebanking -INFO - Password is Provided
+2021-01-18 18:42:46,254 - ebanking -INFO - Successfully login
+2021-01-18 18:42:50,418 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:42:50,493 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:42:50,574 - ebanking -INFO - Selected Gender
+2021-01-18 18:42:50,714 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:42:50,793 - ebanking -INFO - Entered Address
+2021-01-18 18:42:50,859 - ebanking -INFO - Entered City
+2021-01-18 18:42:50,937 - ebanking -INFO - Entered State
+2021-01-18 18:42:51,008 - ebanking -INFO - Entered Pincode
+2021-01-18 18:42:51,073 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:42:51,156 - ebanking -INFO - Entered Email
+2021-01-18 18:42:51,221 - ebanking -INFO - Entered Password
+2021-01-18 18:42:51,274 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:42:54,278 - ebanking -INFO - Validation Started....
+2021-01-18 18:44:04,082 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:44:09,940 - ebanking -INFO - URL is Opened
+2021-01-18 18:44:10,067 - ebanking -INFO - UserName is Provided
+2021-01-18 18:44:10,137 - ebanking -INFO - Password is Provided
+2021-01-18 18:44:12,496 - ebanking -INFO - Successfully login
+2021-01-18 18:44:17,984 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:44:18,078 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:44:18,148 - ebanking -INFO - Selected Gender
+2021-01-18 18:44:18,307 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:44:18,388 - ebanking -INFO - Entered Address
+2021-01-18 18:44:18,460 - ebanking -INFO - Entered City
+2021-01-18 18:44:18,530 - ebanking -INFO - Entered State
+2021-01-18 18:44:18,600 - ebanking -INFO - Entered Pincode
+2021-01-18 18:44:18,677 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:44:18,770 - ebanking -INFO - Entered Email
+2021-01-18 18:44:18,840 - ebanking -INFO - Entered Password
+2021-01-18 18:44:18,893 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:44:21,901 - ebanking -INFO - Validation Started....
+2021-01-18 18:47:00,922 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:47:06,065 - ebanking -INFO - URL is Opened
+2021-01-18 18:47:06,186 - ebanking -INFO - UserName is Provided
+2021-01-18 18:47:06,261 - ebanking -INFO - Password is Provided
+2021-01-18 18:47:07,887 - ebanking -INFO - Successfully login
+2021-01-18 18:47:11,606 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:47:11,691 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:47:11,750 - ebanking -INFO - Selected Gender
+2021-01-18 18:47:11,932 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:47:12,021 - ebanking -INFO - Entered Address
+2021-01-18 18:47:12,086 - ebanking -INFO - Entered City
+2021-01-18 18:47:12,157 - ebanking -INFO - Entered State
+2021-01-18 18:47:12,225 - ebanking -INFO - Entered Pincode
+2021-01-18 18:47:12,293 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:47:12,373 - ebanking -INFO - Entered Email
+2021-01-18 18:47:12,433 - ebanking -INFO - Entered Password
+2021-01-18 18:47:12,490 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:47:15,501 - ebanking -INFO - Validation Started....
+2021-01-18 18:50:33,061 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:50:38,534 - ebanking -INFO - URL is Opened
+2021-01-18 18:50:38,689 - ebanking -INFO - UserName is Provided
+2021-01-18 18:50:38,765 - ebanking -INFO - Password is Provided
+2021-01-18 18:50:40,928 - ebanking -INFO - Successfully login
+2021-01-18 18:50:44,920 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:50:45,014 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:50:45,107 - ebanking -INFO - Selected Gender
+2021-01-18 18:50:45,268 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:50:45,352 - ebanking -INFO - Entered Address
+2021-01-18 18:50:45,419 - ebanking -INFO - Entered City
+2021-01-18 18:50:45,499 - ebanking -INFO - Entered State
+2021-01-18 18:50:45,562 - ebanking -INFO - Entered Pincode
+2021-01-18 18:50:45,634 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:50:45,721 - ebanking -INFO - Entered Email
+2021-01-18 18:50:45,793 - ebanking -INFO - Entered Password
+2021-01-18 18:50:45,849 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:50:48,860 - ebanking -INFO - Validation Started....
+2021-01-18 18:51:28,272 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:51:33,132 - ebanking -INFO - URL is Opened
+2021-01-18 18:51:33,253 - ebanking -INFO - UserName is Provided
+2021-01-18 18:51:33,323 - ebanking -INFO - Password is Provided
+2021-01-18 18:51:34,910 - ebanking -INFO - Successfully login
+2021-01-18 18:51:39,041 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:51:39,128 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:51:39,211 - ebanking -INFO - Selected Gender
+2021-01-18 18:51:39,363 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:51:39,467 - ebanking -INFO - Entered Address
+2021-01-18 18:51:39,542 - ebanking -INFO - Entered City
+2021-01-18 18:51:39,605 - ebanking -INFO - Entered State
+2021-01-18 18:51:39,673 - ebanking -INFO - Entered Pincode
+2021-01-18 18:51:39,745 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:51:39,825 - ebanking -INFO - Entered Email
+2021-01-18 18:51:39,890 - ebanking -INFO - Entered Password
+2021-01-18 18:51:39,942 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:51:42,947 - ebanking -INFO - Validation Started....
+2021-01-18 18:52:14,552 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:52:20,038 - ebanking -INFO - URL is Opened
+2021-01-18 18:52:20,153 - ebanking -INFO - UserName is Provided
+2021-01-18 18:52:20,221 - ebanking -INFO - Password is Provided
+2021-01-18 18:52:21,713 - ebanking -INFO - Successfully login
+2021-01-18 18:52:25,606 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:52:25,696 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:52:25,769 - ebanking -INFO - Selected Gender
+2021-01-18 18:52:25,906 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:52:25,986 - ebanking -INFO - Entered Address
+2021-01-18 18:52:26,054 - ebanking -INFO - Entered City
+2021-01-18 18:52:26,121 - ebanking -INFO - Entered State
+2021-01-18 18:52:26,186 - ebanking -INFO - Entered Pincode
+2021-01-18 18:52:26,254 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:52:26,336 - ebanking -INFO - Entered Email
+2021-01-18 18:52:26,403 - ebanking -INFO - Entered Password
+2021-01-18 18:52:28,153 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:52:31,154 - ebanking -INFO - Validation Started....
+2021-01-18 18:52:31,173 - ebanking -INFO - test case passed....
+2021-01-18 18:54:16,366 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:54:21,449 - ebanking -INFO - URL is Opened
+2021-01-18 18:54:21,570 - ebanking -INFO - Entered Username
+2021-01-18 18:54:21,642 - ebanking -INFO - Entered Password
+2021-01-18 18:54:28,302 - ebanking -INFO - Login test Passed
+2021-01-18 18:54:28,356 - ebanking -INFO - logout Successfully
+2021-01-18 18:54:32,248 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:54:37,274 - ebanking -INFO - URL is Opened
+2021-01-18 18:54:37,364 - ebanking -INFO - UserName is Provided
+2021-01-18 18:54:37,439 - ebanking -INFO - Password is Provided
+2021-01-18 18:54:39,153 - ebanking -INFO - Successfully login
+2021-01-18 18:54:43,197 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:54:43,282 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:54:43,365 - ebanking -INFO - Selected Gender
+2021-01-18 18:54:43,493 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:54:43,574 - ebanking -INFO - Entered Address
+2021-01-18 18:54:43,640 - ebanking -INFO - Entered City
+2021-01-18 18:54:43,714 - ebanking -INFO - Entered State
+2021-01-18 18:54:43,793 - ebanking -INFO - Entered Pincode
+2021-01-18 18:54:43,865 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:54:43,945 - ebanking -INFO - Entered Email
+2021-01-18 18:54:44,009 - ebanking -INFO - Entered Password
+2021-01-18 18:54:45,496 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:54:48,501 - ebanking -INFO - Validation Started....
+2021-01-18 18:54:48,520 - ebanking -INFO - test case passed....
+2021-01-18 18:59:41,927 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 18:59:47,375 - ebanking -INFO - URL is Opened
+2021-01-18 18:59:47,502 - ebanking -INFO - UserName is Provided
+2021-01-18 18:59:47,574 - ebanking -INFO - Password is Provided
+2021-01-18 18:59:49,618 - ebanking -INFO - Successfully login
+2021-01-18 18:59:53,782 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 18:59:53,881 - ebanking -INFO - Entered CustomerName
+2021-01-18 18:59:53,946 - ebanking -INFO - Selected Gender
+2021-01-18 18:59:54,092 - ebanking -INFO - Entered Date of Birth
+2021-01-18 18:59:54,176 - ebanking -INFO - Entered Address
+2021-01-18 18:59:54,247 - ebanking -INFO - Entered City
+2021-01-18 18:59:54,330 - ebanking -INFO - Entered State
+2021-01-18 18:59:54,394 - ebanking -INFO - Entered Pincode
+2021-01-18 18:59:54,465 - ebanking -INFO - Entered Phonenumber
+2021-01-18 18:59:54,554 - ebanking -INFO - Entered Email
+2021-01-18 18:59:54,623 - ebanking -INFO - Entered Password
+2021-01-18 18:59:56,485 - ebanking -INFO - Clicked Submit Button
+2021-01-18 18:59:59,499 - ebanking -INFO - Validation Started....
+2021-01-18 18:59:59,518 - ebanking -INFO - test case passed....
+2021-01-18 19:18:13,477 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:18:19,665 - ebanking -INFO - URL is Opened
+2021-01-18 19:18:19,853 - ebanking -INFO - Entered Username
+2021-01-18 19:18:19,944 - ebanking -INFO - Entered Password
+2021-01-18 19:18:26,807 - ebanking -INFO - Login test Passed
+2021-01-18 19:18:28,336 - ebanking -INFO - logout Successfully
+2021-01-18 19:18:33,266 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:18:38,178 - ebanking -INFO - URL is Opened
+2021-01-18 19:18:38,349 - ebanking -INFO - UserName is Provided
+2021-01-18 19:18:38,420 - ebanking -INFO - Password is Provided
+2021-01-18 19:18:43,740 - ebanking -INFO - Successfully login
+2021-01-18 19:19:09,708 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:19:14,544 - ebanking -INFO - URL is Opened
+2021-01-18 19:19:14,703 - ebanking -INFO - Entered Username
+2021-01-18 19:19:14,780 - ebanking -INFO - Entered Password
+2021-01-18 19:19:21,807 - ebanking -INFO - Login test Passed
+2021-01-18 19:19:21,855 - ebanking -INFO - logout Successfully
+2021-01-18 19:19:25,774 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:19:31,904 - ebanking -INFO - URL is Opened
+2021-01-18 19:19:32,006 - ebanking -INFO - UserName is Provided
+2021-01-18 19:19:32,073 - ebanking -INFO - Password is Provided
+2021-01-18 19:19:34,504 - ebanking -INFO - Successfully login
+2021-01-18 19:19:38,643 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 19:19:38,732 - ebanking -INFO - Entered CustomerName
+2021-01-18 19:19:38,814 - ebanking -INFO - Selected Gender
+2021-01-18 19:19:38,993 - ebanking -INFO - Entered Date of Birth
+2021-01-18 19:19:39,070 - ebanking -INFO - Entered Address
+2021-01-18 19:19:39,140 - ebanking -INFO - Entered City
+2021-01-18 19:19:39,208 - ebanking -INFO - Entered State
+2021-01-18 19:19:39,273 - ebanking -INFO - Entered Pincode
+2021-01-18 19:19:39,341 - ebanking -INFO - Entered Phonenumber
+2021-01-18 19:19:39,421 - ebanking -INFO - Entered Email
+2021-01-18 19:19:39,482 - ebanking -INFO - Entered Password
+2021-01-18 19:19:42,595 - ebanking -INFO - Clicked Submit Button
+2021-01-18 19:19:45,601 - ebanking -INFO - Validation Started....
+2021-01-18 19:19:45,617 - ebanking -INFO - test case passed....
+2021-01-18 19:49:19,727 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:49:25,723 - ebanking -INFO - URL is Opened
+2021-01-18 19:49:29,425 - ebanking -INFO - Entered Username
+2021-01-18 19:49:29,503 - ebanking -INFO - Entered Password
+2021-01-18 19:49:37,000 - ebanking -INFO - Login test Passed
+2021-01-18 19:49:46,311 - ebanking -INFO - logout Successfully
+2021-01-18 19:49:50,820 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 19:49:56,465 - ebanking -INFO - URL is Opened
+2021-01-18 19:49:56,690 - ebanking -INFO - UserName is Provided
+2021-01-18 19:49:56,766 - ebanking -INFO - Password is Provided
+2021-01-18 19:49:59,923 - ebanking -INFO - Successfully login
+2021-01-18 19:50:04,051 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 19:50:04,146 - ebanking -INFO - Entered CustomerName
+2021-01-18 19:50:04,285 - ebanking -INFO - Selected Gender
+2021-01-18 19:50:04,448 - ebanking -INFO - Entered Date of Birth
+2021-01-18 19:50:04,531 - ebanking -INFO - Entered Address
+2021-01-18 19:50:04,617 - ebanking -INFO - Entered City
+2021-01-18 19:50:04,706 - ebanking -INFO - Entered State
+2021-01-18 19:50:04,785 - ebanking -INFO - Entered Pincode
+2021-01-18 19:50:04,862 - ebanking -INFO - Entered Phonenumber
+2021-01-18 19:50:04,945 - ebanking -INFO - Entered Email
+2021-01-18 19:50:05,031 - ebanking -INFO - Entered Password
+2021-01-18 19:50:06,646 - ebanking -INFO - Clicked Submit Button
+2021-01-18 19:50:09,649 - ebanking -INFO - Validation Started....
+2021-01-18 19:50:09,811 - ebanking -INFO - test case passed....
+2021-01-18 20:00:59,509 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:01:00,044 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:01:07,458 - ebanking -INFO - URL is Opened
+2021-01-18 20:01:07,652 - ebanking -INFO - URL is Opened
+2021-01-18 20:01:08,289 - ebanking -INFO - Entered Username
+2021-01-18 20:01:08,367 - ebanking -INFO - Entered Password
+2021-01-18 20:01:14,743 - ebanking -INFO - Entered Username
+2021-01-18 20:01:14,808 - ebanking -INFO - Entered Password
+2021-01-18 20:01:21,135 - ebanking -INFO - Login test Passed
+2021-01-18 20:01:23,710 - ebanking -INFO - Login test Passed
+2021-01-18 20:01:39,957 - ebanking -INFO - logout Successfully
+2021-01-18 20:01:42,602 - ebanking -INFO - logout Successfully
+2021-01-18 20:01:50,908 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:01:51,779 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:01:59,219 - ebanking -INFO - URL is Opened
+2021-01-18 20:01:59,390 - ebanking -INFO - UserName is Provided
+2021-01-18 20:01:59,475 - ebanking -INFO - Password is Provided
+2021-01-18 20:01:59,862 - ebanking -INFO - URL is Opened
+2021-01-18 20:01:59,973 - ebanking -INFO - UserName is Provided
+2021-01-18 20:02:00,052 - ebanking -INFO - Password is Provided
+2021-01-18 20:02:03,469 - ebanking -INFO - Successfully login
+2021-01-18 20:02:05,131 - ebanking -INFO - Successfully login
+2021-01-18 20:02:15,161 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 20:02:15,259 - ebanking -INFO - Entered CustomerName
+2021-01-18 20:02:15,450 - ebanking -INFO - Selected Gender
+2021-01-18 20:02:15,608 - ebanking -INFO - Entered Date of Birth
+2021-01-18 20:02:15,711 - ebanking -INFO - Entered Address
+2021-01-18 20:02:15,815 - ebanking -INFO - Entered City
+2021-01-18 20:02:15,903 - ebanking -INFO - Entered State
+2021-01-18 20:02:15,993 - ebanking -INFO - Entered Pincode
+2021-01-18 20:02:16,072 - ebanking -INFO - Entered Phonenumber
+2021-01-18 20:02:16,243 - ebanking -INFO - Entered Email
+2021-01-18 20:02:16,350 - ebanking -INFO - Entered Password
+2021-01-18 20:02:17,713 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 20:02:17,848 - ebanking -INFO - Entered CustomerName
+2021-01-18 20:02:17,921 - ebanking -INFO - Selected Gender
+2021-01-18 20:02:18,150 - ebanking -INFO - Entered Date of Birth
+2021-01-18 20:02:18,259 - ebanking -INFO - Entered Address
+2021-01-18 20:02:18,335 - ebanking -INFO - Entered City
+2021-01-18 20:02:18,409 - ebanking -INFO - Clicked Submit Button
+2021-01-18 20:02:18,475 - ebanking -INFO - Entered State
+2021-01-18 20:02:18,567 - ebanking -INFO - Entered Pincode
+2021-01-18 20:02:18,698 - ebanking -INFO - Entered Phonenumber
+2021-01-18 20:02:18,810 - ebanking -INFO - Entered Email
+2021-01-18 20:02:18,891 - ebanking -INFO - Entered Password
+2021-01-18 20:02:21,186 - ebanking -INFO - Clicked Submit Button
+2021-01-18 20:02:21,424 - ebanking -INFO - Validation Started....
+2021-01-18 20:02:21,476 - ebanking -INFO - test case passed....
+2021-01-18 20:02:24,187 - ebanking -INFO - Validation Started....
+2021-01-18 20:02:24,217 - ebanking -INFO - test case passed....
+2021-01-18 20:05:00,149 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:05:05,167 - ebanking -INFO - URL is Opened
+2021-01-18 20:05:05,425 - ebanking -INFO - Entered Username
+2021-01-18 20:05:05,514 - ebanking -INFO - Entered Password
+2021-01-18 20:05:14,174 - ebanking -INFO - Login test Passed
+2021-01-18 20:05:14,228 - ebanking -INFO - logout Successfully
+2021-01-18 20:05:20,138 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 20:05:25,232 - ebanking -INFO - URL is Opened
+2021-01-18 20:05:25,335 - ebanking -INFO - UserName is Provided
+2021-01-18 20:05:25,417 - ebanking -INFO - Password is Provided
+2021-01-18 20:05:28,894 - ebanking -INFO - Successfully login
+2021-01-18 20:05:33,066 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 20:05:33,169 - ebanking -INFO - Entered CustomerName
+2021-01-18 20:05:33,246 - ebanking -INFO - Selected Gender
+2021-01-18 20:05:33,419 - ebanking -INFO - Entered Date of Birth
+2021-01-18 20:05:33,502 - ebanking -INFO - Entered Address
+2021-01-18 20:05:33,583 - ebanking -INFO - Entered City
+2021-01-18 20:05:33,668 - ebanking -INFO - Entered State
+2021-01-18 20:05:33,744 - ebanking -INFO - Entered Pincode
+2021-01-18 20:05:33,843 - ebanking -INFO - Entered Phonenumber
+2021-01-18 20:05:33,931 - ebanking -INFO - Entered Email
+2021-01-18 20:05:34,011 - ebanking -INFO - Entered Password
+2021-01-18 20:05:35,702 - ebanking -INFO - Clicked Submit Button
+2021-01-18 20:05:38,711 - ebanking -INFO - Validation Started....
+2021-01-18 20:05:38,739 - ebanking -INFO - test case passed....
+2021-01-18 21:07:02,511 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 21:07:15,591 - ebanking -INFO - URL is Opened
+2021-01-18 21:07:17,090 - ebanking -INFO - Entered Username
+2021-01-18 21:07:17,188 - ebanking -INFO - Entered Password
+2021-01-18 21:07:25,336 - ebanking -INFO - Login test Passed
+2021-01-18 21:07:25,400 - ebanking -INFO - logout Successfully
+2021-01-18 21:07:29,699 - ebanking -INFO - Chrome Browser is launched
+2021-01-18 21:07:37,012 - ebanking -INFO - URL is Opened
+2021-01-18 21:07:37,309 - ebanking -INFO - UserName is Provided
+2021-01-18 21:07:37,384 - ebanking -INFO - Password is Provided
+2021-01-18 21:07:43,547 - ebanking -INFO - Successfully login
+2021-01-18 21:07:47,728 - ebanking -INFO - Providing Customer Details.....!
+2021-01-18 21:07:47,830 - ebanking -INFO - Entered CustomerName
+2021-01-18 21:07:47,925 - ebanking -INFO - Selected Gender
+2021-01-18 21:07:48,110 - ebanking -INFO - Entered Date of Birth
+2021-01-18 21:07:48,196 - ebanking -INFO - Entered Address
+2021-01-18 21:07:48,273 - ebanking -INFO - Entered City
+2021-01-18 21:07:48,361 - ebanking -INFO - Entered State
+2021-01-18 21:07:48,429 - ebanking -INFO - Entered Pincode
+2021-01-18 21:07:48,531 - ebanking -INFO - Entered Phonenumber
+2021-01-18 21:07:48,620 - ebanking -INFO - Entered Email
+2021-01-18 21:07:48,696 - ebanking -INFO - Entered Password
+2021-01-18 21:07:50,054 - ebanking -INFO - Clicked Submit Button
+2021-01-18 21:07:53,066 - ebanking -INFO - Validation Started....
+2021-01-18 21:07:53,101 - ebanking -INFO - test case passed....
+2021-01-19 12:19:31,701 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 12:19:37,625 - ebanking -INFO - URL is Opened
+2021-01-19 12:19:38,109 - ebanking -INFO - Entered Username
+2021-01-19 12:19:38,195 - ebanking -INFO - Entered Password
+2021-01-19 12:19:45,413 - ebanking -INFO - Login test Passed
+2021-01-19 12:19:45,465 - ebanking -INFO - logout Successfully
+2021-01-19 12:38:09,372 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 12:38:15,030 - ebanking -INFO - URL is Opened
+2021-01-19 12:38:15,209 - ebanking -INFO - Entered Username
+2021-01-19 12:38:15,283 - ebanking -INFO - Entered Password
+2021-01-19 12:38:26,357 - ebanking -INFO - Login test Passed
+2021-01-19 12:38:26,410 - ebanking -INFO - logout Successfully
+2021-01-19 12:38:30,233 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 12:38:36,193 - ebanking -INFO - URL is Opened
+2021-01-19 12:38:36,284 - ebanking -INFO - UserName is Provided
+2021-01-19 12:38:36,353 - ebanking -INFO - Password is Provided
+2021-01-19 12:38:39,933 - ebanking -INFO - Successfully login
+2021-01-19 12:38:45,712 - ebanking -INFO - Providing Customer Details.....!
+2021-01-19 12:38:45,803 - ebanking -INFO - Entered CustomerName
+2021-01-19 12:38:45,868 - ebanking -INFO - Selected Gender
+2021-01-19 12:38:46,029 - ebanking -INFO - Entered Date of Birth
+2021-01-19 12:38:46,111 - ebanking -INFO - Entered Address
+2021-01-19 12:38:46,181 - ebanking -INFO - Entered City
+2021-01-19 12:38:46,257 - ebanking -INFO - Entered State
+2021-01-19 12:38:46,330 - ebanking -INFO - Entered Pincode
+2021-01-19 12:38:46,410 - ebanking -INFO - Entered Phonenumber
+2021-01-19 12:38:46,504 - ebanking -INFO - Entered Email
+2021-01-19 12:38:46,579 - ebanking -INFO - Entered Password
+2021-01-19 12:38:51,724 - ebanking -INFO - Clicked Submit Button
+2021-01-19 12:38:54,739 - ebanking -INFO - Validation Started....
+2021-01-19 12:38:55,001 - ebanking -INFO - test case passed....
+2021-01-19 16:52:54,208 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 16:53:02,626 - ebanking -INFO - URL is Opened
+2021-01-19 16:53:03,159 - ebanking -INFO - Entered Username
+2021-01-19 16:53:03,224 - ebanking -INFO - Entered Password
+2021-01-19 16:53:10,942 - ebanking -INFO - Login test Passed
+2021-01-19 16:53:10,997 - ebanking -INFO - logout Successfully
+2021-01-19 17:28:13,026 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:28:18,219 - ebanking -INFO - URL is Opened
+2021-01-19 17:28:18,631 - ebanking -INFO - Entered Username
+2021-01-19 17:28:18,706 - ebanking -INFO - Entered Password
+2021-01-19 17:28:26,075 - ebanking -INFO - Login test Passed
+2021-01-19 17:28:26,130 - ebanking -INFO - logout Successfully
+2021-01-19 17:28:31,742 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:28:37,240 - ebanking -INFO - URL is Opened
+2021-01-19 17:28:37,372 - ebanking -INFO - UserName is Provided
+2021-01-19 17:28:37,485 - ebanking -INFO - Password is Provided
+2021-01-19 17:28:39,669 - ebanking -INFO - Successfully login
+2021-01-19 17:28:43,951 - ebanking -INFO - Providing Customer Details.....!
+2021-01-19 17:28:44,050 - ebanking -INFO - Entered CustomerName
+2021-01-19 17:28:44,135 - ebanking -INFO - Selected Gender
+2021-01-19 17:28:44,336 - ebanking -INFO - Entered Date of Birth
+2021-01-19 17:28:44,449 - ebanking -INFO - Entered Address
+2021-01-19 17:28:44,520 - ebanking -INFO - Entered City
+2021-01-19 17:28:44,598 - ebanking -INFO - Entered State
+2021-01-19 17:28:44,670 - ebanking -INFO - Entered Pincode
+2021-01-19 17:28:44,740 - ebanking -INFO - Entered Phonenumber
+2021-01-19 17:28:44,828 - ebanking -INFO - Entered Email
+2021-01-19 17:28:44,900 - ebanking -INFO - Entered Password
+2021-01-19 17:28:46,478 - ebanking -INFO - Clicked Submit Button
+2021-01-19 17:28:49,496 - ebanking -INFO - Validation Started....
+2021-01-19 17:28:49,926 - ebanking -INFO - test case passed....
+2021-01-19 17:31:01,655 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:31:07,637 - ebanking -INFO - URL is Opened
+2021-01-19 17:31:07,799 - ebanking -INFO - Entered Username
+2021-01-19 17:31:07,898 - ebanking -INFO - Entered Password
+2021-01-19 17:31:15,639 - ebanking -INFO - Login test Passed
+2021-01-19 17:31:15,794 - ebanking -INFO - logout Successfully
+2021-01-19 17:31:19,637 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:31:24,954 - ebanking -INFO - URL is Opened
+2021-01-19 17:31:25,072 - ebanking -INFO - UserName is Provided
+2021-01-19 17:31:25,158 - ebanking -INFO - Password is Provided
+2021-01-19 17:31:28,257 - ebanking -INFO - Successfully login
+2021-01-19 17:31:32,281 - ebanking -INFO - Providing Customer Details.....!
+2021-01-19 17:31:32,449 - ebanking -INFO - Entered CustomerName
+2021-01-19 17:31:32,535 - ebanking -INFO - Selected Gender
+2021-01-19 17:31:32,740 - ebanking -INFO - Entered Date of Birth
+2021-01-19 17:31:32,832 - ebanking -INFO - Entered Address
+2021-01-19 17:31:32,914 - ebanking -INFO - Entered City
+2021-01-19 17:31:32,993 - ebanking -INFO - Entered State
+2021-01-19 17:31:33,063 - ebanking -INFO - Entered Pincode
+2021-01-19 17:31:33,140 - ebanking -INFO - Entered Phonenumber
+2021-01-19 17:31:33,238 - ebanking -INFO - Entered Email
+2021-01-19 17:31:33,306 - ebanking -INFO - Entered Password
+2021-01-19 17:31:35,417 - ebanking -INFO - Clicked Submit Button
+2021-01-19 17:31:38,431 - ebanking -INFO - Validation Started....
+2021-01-19 17:31:38,459 - ebanking -INFO - test case passed....
+2021-01-19 17:34:40,197 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:34:45,492 - ebanking -INFO - URL is Opened
+2021-01-19 17:34:45,620 - ebanking -INFO - Entered Username
+2021-01-19 17:34:45,698 - ebanking -INFO - Entered Password
+2021-01-19 17:34:52,578 - ebanking -INFO - Login test Passed
+2021-01-19 17:34:52,679 - ebanking -INFO - logout Successfully
+2021-01-19 17:34:56,901 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:35:02,154 - ebanking -INFO - URL is Opened
+2021-01-19 17:35:02,255 - ebanking -INFO - UserName is Provided
+2021-01-19 17:35:02,320 - ebanking -INFO - Password is Provided
+2021-01-19 17:35:04,351 - ebanking -INFO - Successfully login
+2021-01-19 17:35:08,670 - ebanking -INFO - Providing Customer Details.....!
+2021-01-19 17:35:08,765 - ebanking -INFO - Entered CustomerName
+2021-01-19 17:35:08,822 - ebanking -INFO - Selected Gender
+2021-01-19 17:35:09,006 - ebanking -INFO - Entered Date of Birth
+2021-01-19 17:35:09,099 - ebanking -INFO - Entered Address
+2021-01-19 17:35:09,171 - ebanking -INFO - Entered City
+2021-01-19 17:35:09,240 - ebanking -INFO - Entered State
+2021-01-19 17:35:09,326 - ebanking -INFO - Entered Pincode
+2021-01-19 17:35:09,399 - ebanking -INFO - Entered Phonenumber
+2021-01-19 17:35:09,487 - ebanking -INFO - Entered Email
+2021-01-19 17:35:09,568 - ebanking -INFO - Entered Password
+2021-01-19 17:35:09,959 - ebanking -INFO - Clicked Submit Button
+2021-01-19 17:35:12,971 - ebanking -INFO - Validation Started....
+2021-01-19 17:37:19,387 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:37:24,886 - ebanking -INFO - URL is Opened
+2021-01-19 17:37:25,035 - ebanking -INFO - Entered Username
+2021-01-19 17:37:25,116 - ebanking -INFO - Entered Password
+2021-01-19 17:37:32,720 - ebanking -INFO - Login test Passed
+2021-01-19 17:37:32,771 - ebanking -INFO - logout Successfully
+2021-01-19 17:37:36,428 - ebanking -INFO - Chrome Browser is launched
+2021-01-19 17:37:41,316 - ebanking -INFO - URL is Opened
+2021-01-19 17:37:41,399 - ebanking -INFO - UserName is Provided
+2021-01-19 17:37:41,474 - ebanking -INFO - Password is Provided
+2021-01-19 17:37:43,713 - ebanking -INFO - Successfully login
+2021-01-19 17:37:48,016 - ebanking -INFO - Providing Customer Details.....!
+2021-01-19 17:37:48,150 - ebanking -INFO - Entered CustomerName
+2021-01-19 17:37:48,209 - ebanking -INFO - Selected Gender
+2021-01-19 17:37:48,376 - ebanking -INFO - Entered Date of Birth
+2021-01-19 17:37:48,462 - ebanking -INFO - Entered Address
+2021-01-19 17:37:48,530 - ebanking -INFO - Entered City
+2021-01-19 17:37:48,608 - ebanking -INFO - Entered State
+2021-01-19 17:37:48,681 - ebanking -INFO - Entered Pincode
+2021-01-19 17:37:48,745 - ebanking -INFO - Entered Phonenumber
+2021-01-19 17:37:48,842 - ebanking -INFO - Entered Email
+2021-01-19 17:37:48,912 - ebanking -INFO - Entered Password
+2021-01-19 17:37:50,940 - ebanking -INFO - Clicked Submit Button
+2021-01-19 17:37:53,940 - ebanking -INFO - Validation Started....
+2021-01-19 17:37:53,968 - ebanking -INFO - test case passed....
+2021-01-20 12:12:32,248 - ebanking -INFO - Chrome Browser is launched
+2021-01-20 12:12:37,524 - ebanking -INFO - URL is Opened
+2021-01-20 12:12:37,720 - ebanking -INFO - 
+2021-01-20 12:12:37,795 - ebanking -INFO - 
+2021-01-20 12:12:45,677 - ebanking -INFO - 
+2021-01-20 12:12:45,757 - ebanking -INFO - 
+2021-01-20 12:12:45,820 - ebanking -INFO - 
+2021-01-20 12:28:14,432 - ebanking -INFO - Chrome Browser is launched
+2021-01-20 12:28:19,688 - ebanking -INFO - URL is Opened
+2021-01-20 12:28:19,892 - ebanking -INFO - Username Provided
+2021-01-20 12:28:19,974 - ebanking -INFO - Password Provided
+2021-01-20 12:28:21,821 - ebanking -INFO - Successfully Login
+2021-01-20 12:28:26,435 - ebanking -INFO - Clicked EditCustomer
+2021-01-20 12:28:26,529 - ebanking -INFO - CustomerID Provided
+2021-01-20 12:28:28,034 - ebanking -INFO - Clicked Edit Submit Button
+2021-01-20 12:28:28,136 - ebanking -INFO - Address Provided
+2021-01-20 12:28:28,216 - ebanking -INFO - Phonenumber Provided
+2021-01-20 12:28:29,844 - ebanking -INFO - Clicked Submit Button
+2021-01-20 12:28:32,846 - ebanking -INFO - Validation started
+2021-01-20 12:30:42,147 - ebanking -INFO - Chrome Browser is launched
+2021-01-20 12:30:46,982 - ebanking -INFO - URL is Opened
+2021-01-20 12:30:47,154 - ebanking -INFO - Entered Username
+2021-01-20 12:30:47,235 - ebanking -INFO - Entered Password
+2021-01-20 12:30:54,137 - ebanking -INFO - Login test Passed
+2021-01-20 12:30:58,724 - ebanking -INFO - logout Successfully
+2021-01-20 12:31:03,244 - ebanking -INFO - Chrome Browser is launched
+2021-01-20 12:31:07,726 - ebanking -INFO - URL is Opened
+2021-01-20 12:31:07,815 - ebanking -INFO - UserName is Provided
+2021-01-20 12:31:07,884 - ebanking -INFO - Password is Provided
+2021-01-20 12:31:11,151 - ebanking -INFO - Successfully login
+2021-01-20 12:31:15,155 - ebanking -INFO - Providing Customer Details.....!
+2021-01-20 12:31:15,301 - ebanking -INFO - Entered CustomerName
+2021-01-20 12:31:15,363 - ebanking -INFO - Selected Gender
+2021-01-20 12:31:15,534 - ebanking -INFO - Entered Date of Birth
+2021-01-20 12:31:15,617 - ebanking -INFO - Entered Address
+2021-01-20 12:31:15,684 - ebanking -INFO - Entered City
+2021-01-20 12:31:15,761 - ebanking -INFO - Entered State
+2021-01-20 12:31:15,833 - ebanking -INFO - Entered Pincode
+2021-01-20 12:31:15,910 - ebanking -INFO - Entered Phonenumber
+2021-01-20 12:31:16,001 - ebanking -INFO - Entered Email
+2021-01-20 12:31:16,069 - ebanking -INFO - Entered Password
+2021-01-20 12:31:18,280 - ebanking -INFO - Clicked Submit Button
+2021-01-20 12:31:21,284 - ebanking -INFO - Validation Started....
+2021-01-20 12:31:21,301 - ebanking -INFO - test case passed....
+2021-01-20 12:31:26,486 - ebanking -INFO - Chrome Browser is launched
+2021-01-20 12:31:31,864 - ebanking -INFO - URL is Opened
+2021-01-20 12:31:31,956 - ebanking -INFO - Username Provided
+2021-01-20 12:31:32,038 - ebanking -INFO - Password Provided
+2021-01-20 12:31:34,119 - ebanking -INFO - Successfully Login
+2021-01-20 12:31:38,702 - ebanking -INFO - Clicked EditCustomer
+2021-01-20 12:31:38,799 - ebanking -INFO - CustomerID Provided
+2021-01-20 12:31:40,569 - ebanking -INFO - Clicked Edit Submit Button
+2021-01-20 12:31:40,670 - ebanking -INFO - Address Provided
+2021-01-20 12:31:40,748 - ebanking -INFO - Phonenumber Provided
+2021-01-20 12:31:42,877 - ebanking -INFO - Clicked Submit Button
+2021-01-20 12:31:45,890 - ebanking -INFO - Validation started
+2021-01-20 12:31:45,904 - ebanking -INFO - Testcase passed
